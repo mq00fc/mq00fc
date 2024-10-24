@@ -22,6 +22,6 @@ Hi, I'm [Your Name]! I'm a passionate software developer with a love for solving
 - **CI/CD**: GitHub Actions
 
 ## 📫 Get in Touch
-- [Email](mailto:	dreamslavefeng@gmail.com)
+- [Email](mailto:dreamslavefeng@gmail.com)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
