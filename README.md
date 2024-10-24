@@ -1,5 +1,3 @@
----
-
 # Welcome to My GitHub Profile! 👋
 
 Hi, I'm [Your Name]! I'm a passionate software developer with a love for solving real-world problems through code. I enjoy working on a variety of projects, from full-stack web development to cloud computing and automation. 
@@ -27,5 +25,3 @@ Hi, I'm [Your Name]! I'm a passionate software developer with a love for solving
 - [Email](mailto:	dreamslavefeng@gmail.com)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
-
----
